@@ -1,6 +1,6 @@
 {
-    "name": "gitbook-plugin",
-    "description": "Sample plugin for GitBook",
+    "name": "gitbook-plugin-codemirror",
+    "description": "Plugin for GitBook for inserting codemirror editors",
     "main": "index.js",
     "version": "0.0.2",
     "engines": {
